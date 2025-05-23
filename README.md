@@ -8,6 +8,17 @@
 
 **<h1>A cyberpunk-style password generator with advanced security features, created by Dear Virus</h1>**
 
+
+<h2 align="center">
+  <span style="color: #0ff; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff;">⚡ LIVE MATRIX PREVIEW ⚡</span>
+</h2>
+
+<p align="center">
+  <a href="https://mysite.com" style="color: #0f0; text-decoration: none; font-weight: bold; font-size: 1.2em; text-shadow: 0 0 5px #0f0, 0 0 10px #0f0;">
+    [ ► ENTER THE SIMULATION ◄ ]
+  </a>
+</p>
+
 ## 🔥 Features
 
 - **Military-Grade Password Generation**
