@@ -1,5 +1,8 @@
-<h1> QuantumPass PRO - Futuristic Password Generator 🚀</h1>
 
+<div align="center">QuantumPass PRO - Futuristic Password Generator 🚀🔮</div>
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓[ 𝗦𝗬𝗘𝗗 𝗠𝗨𝗛𝗔𝗠𝗠𝗔𝗗 𝗞𝗛𝗨𝗕𝗔𝗜𝗕 𝗦𝗛𝗔𝗛 ]█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ![QuantumPass Screenshot](https://i.imgur.com/placeholder.png) *Replace with actual screenshot*
 
 **A cyberpunk-style password generator with advanced security features, created by Dear Virus**
@@ -24,6 +27,18 @@
   - Password history (last 5 generated)
   - Hacker Typer animation mode
   - Presets (Memorable/PIN/Cryptic)
+ 
+  💾 𝗦𝗬𝗦𝗧𝗘𝗠 𝗦𝗧𝗔𝗧𝗦
+```python
+def system_metrics():
+    return {
+        "Security Skills": "██████████ 98%",
+        "Design Prowess": "█████████░ 92%", 
+        "Tech Mastery": "██████████ 95%",
+        "Creativity": "█████████▒ 90%",
+        "Cyber Awareness": "██████████ 100%"
+    }
+```
 
 ## 🛠️ Technologies Used
 
@@ -38,9 +53,11 @@
 1. Clone the repo:
 ```bash
 git clone https://github.com/DearVirus/QuantumPass-PRO.git
-
+```
+```
 2.Open index.html in any modern browser
-
+```
+```
 3. Generate uncrackable passwords with style!
 ```
 <h2>🌌 Project Showcase</h2>
