@@ -4,7 +4,7 @@
 █░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓[ 𝗦𝗬𝗘𝗗 𝗠𝗨𝗛𝗔𝗠𝗠𝗔𝗗 𝗞𝗛𝗨𝗕𝗔𝗜𝗕 𝗦𝗛𝗔𝗛 ]█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-![QuantumPass Screenshot](https://i.imgur.com/placeholder.png) *Replace with actual screenshot*
+![QuantumPass Screenshot](https://i.ibb.co/PvQdvgzr/pass.jpg) *Replace with actual screenshot*
 
 **<h1>A cyberpunk-style password generator with advanced security features, created by Dear Virus</h1>**
 
@@ -55,17 +55,10 @@ def system_metrics():
 ```bash
 git clone https://github.com/DearVirus/QuantumPass-PRO.git
 ```
-```
+
 2.Open index.html in any modern browser
-```
-```
+
 3. Generate uncrackable passwords with style!
-```
-<h2>🌌 Project Showcase</h2>
-Feature	Preview
-Password Generation	Gen Demo
-QR Code Sharing	QR Demo
-Hacker Typer Mode	Typer Demo
 
 <h2>🧑‍💻 Developer</h2>
 <h3>Syed Muhammad Khubaib Shah (Dear Virus)</h3>
