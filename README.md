@@ -4,7 +4,7 @@
 █░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓[ 𝗦𝗬𝗘𝗗 𝗠𝗨𝗛𝗔𝗠𝗠𝗔𝗗 𝗞𝗛𝗨𝗕𝗔𝗜𝗕 𝗦𝗛𝗔𝗛 ]█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-![QuantumPass Screenshot](https://i.ibb.co/PvQdvgzr/pass.jpg) *Replace with actual screenshot*
+![QuantumPass Screenshot](https://raw.githubusercontent.com/DearVirussir/QuantumPass-PRO/refs/heads/main/pass.JPG) *Replace with actual screenshot*
 
 **<h1>A cyberpunk-style password generator with advanced security features, created by Dear Virus</h1>**
 
